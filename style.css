@@ -21,6 +21,7 @@ body {
   grid-column: 1;
   grid-row: 1;
   border: 2px solid black;
+  padding: 10%;
 }
 .section-a-top > .right-side {
   grid-column: 1;
