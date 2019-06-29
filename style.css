@@ -52,6 +52,9 @@ img {
   width: 100%;
   height: 100%;
 }
+a:hover {
+    color: #733502;
+  }
 @media (min-width: 800px) {
   .section-a-top {
     height: 90vh;
